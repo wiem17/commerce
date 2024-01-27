@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.41.3",
+    "react-redux": "^9.1.0",
+    "redux-thunk": "^3.1.0"
+  }
+}
